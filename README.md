@@ -3,8 +3,8 @@
 watch out
 
 
-![Crime @ 5AM](./ss1?raw=true)
-![Crime @ 7pm](./ss2?raw=true)
+![alt tag](https://raw.githubusercontent.com/rkkim/MHacks8Cognizant/blob/master/ss1.png)
+![alt tag](https://raw.githubusercontent.com/rkkim/MHacks8Cognizant/blob/master/ss2.png)
 
 -------------
 
