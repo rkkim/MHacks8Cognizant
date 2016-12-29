@@ -3,8 +3,8 @@
 watch out
 
 
-![alt tag](https://raw.githubusercontent.com/rkkim/MHacks8Cognizant/blob/master/ss1.png)
-![alt tag](https://raw.githubusercontent.com/rkkim/MHacks8Cognizant/blob/master/ss2.png)
+![alt tag](https://github.com/rkkim/MHacks8Cognizant/blob/master/ss1.png)
+![alt tag](https://github.com/rkkim/MHacks8Cognizant/blob/master/ss2.png)
 
 -------------
 
